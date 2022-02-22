@@ -305,4 +305,6 @@ Referências de Pesquisa
 - https://noknox.com/info/funcionalidades
 - https://www.getninjas.com.br/
 
+Repositório Figma
+https://www.figma.com/file/RyRkLqa7bdYbJRHCGOexeD/Tour-Geneve?node-id=0%3A1
 
