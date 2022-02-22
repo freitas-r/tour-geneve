@@ -36,6 +36,8 @@ Este sistema de notificações futuramente também servirá para outras finalida
 
 Figura 2 - Tela de notificações e notificações na tela de bloqueio do mobile. Fonte: autores.
 
+Observação: o atalho “faturas” na barra de navegação inferior foi substituído pelo recurso do chat, apresentado a seguir.
+
 2.2	Chat
 
 A solução do chat integrada ao aplicativo visa facilitar o contato entre moradores, bem como entre morador e administração.
